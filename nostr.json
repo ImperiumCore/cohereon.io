@@ -1,0 +1,14 @@
+{
+  "names": {
+    "manifold": "a7f92bd5fe22e4e339bddbb6c01506f1f990c24b2035f6f236af6c43984ec642"
+  },
+  "relays": {
+    "a7f92bd5fe22e4e339bddbb6c01506f1f990c24b2035f6f236af6c43984ec642": [
+      "wss://relay.damus.io",
+      "wss://relay.nostr.band",
+      "wss://nos.lol",
+      "wss://nostr.wine",
+      "wss://relay.snort.social"
+    ]
+  }
+}
